@@ -1,2 +1,1 @@
-# Prepcourse-henry
-Repositorio prueba modulo 2
+proyecto de como crear un repositorio y clonarlo 
